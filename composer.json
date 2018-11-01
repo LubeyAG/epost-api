@@ -1,5 +1,5 @@
 {
-  "name": "richardhj/epost-api",
+  "name": "lubeyag/epost-api",
   "description": "E-POSTBUSINESS API PHP integration",
   "authors": [
     {
@@ -11,13 +11,13 @@
   ],
   "license": "LGPL-3.0+",
   "support": {
-    "issues": "https://github.com/richardhj/epost-api/issues",
-    "source": "https://github.com/richardhj/epost-api"
+    "issues": "https://github.com/LubeyAG/epost-api/issues",
+    "source": "https://github.com/LubeyAG/epost-api"
   },
   "require": {
     "php": "^7.0",
     "guzzlehttp/guzzle": "^6.0",
-    "richardhj/oauth2-epost": "*"
+    "lubeyag/oauth2-epost": "*"
   },
   "require-dev": {
     "phpunit/phpunit": "^6.3"
